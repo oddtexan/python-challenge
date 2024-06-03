@@ -1,6 +1,6 @@
 # python-challenge
 
-We have two parts to solve: 
+After creating a new repository names "python-challenge" and cloning it to local drive, we created two folders for each of the two parts of the assignment.   
 
 1. PyBank Instructions
  
